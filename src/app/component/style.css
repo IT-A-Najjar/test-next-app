@@ -1,0 +1,38 @@
+p{
+    font-size: 14px;
+}
+.group-input label{
+    font-size: 14px;
+}
+.input-item{
+    height: 3.5rem;
+    border-radius: 50px;
+    border: 3px solid #eee;
+}
+.iconcam{
+    position: absolute;
+    bottom: -10px;
+    right: -5px;
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50px;
+    border: 2px solid #ffffff;
+    background-color: #bb86fc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.iconcam span{
+    margin: auto;
+}
+.price-item{
+    width: 100%;
+    border-radius: 50px;
+    height: 3rem;
+    background-color: #e9d7fe;
+    display: flex;
+    align-items: center;
+}
+.price-item h1{
+    font-size: 20px;
+}
